@@ -124,8 +124,5 @@ Feel free to fork, improve, and submit pull requests. For major changes, please 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Author
-[Your Name]
+[Arindam Bhunia]
 
-## 🙏 Acknowledgments
-- Dataset source: [Source Name]
-- Thanks to all contributors and reviewers
